@@ -66,6 +66,18 @@ and to build:
    % make
 ```
 
+or to build on windows ( it's on test, now for only jackhmmer can be used to best capability! )
+'''bash
+   # Run on MSYS2
+   sh ./compile.sh
+'''
+
+TODO: Imporve CPU command machine code set or I/O, threads parts
+but now: I only wonder to get that fucking alphafold3 protein MSA and template gets on our fucking school workstation!
+it's so awful that even that simply wsl2 couldn't be installed on our workstation!
+so, I can't understand anybody will be also awful situation like me, hahahahahahahahaha........... :(
+( I may to come to get more develop some day, or not... )
+
 Our [git workflow](https://github.com/EddyRivasLab/hmmer/wiki/Git-workflow)
 includes three main branches:
 
